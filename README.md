@@ -1,5 +1,7 @@
 # Organiza
 
+![Downloads](https://img.shields.io/github/downloads/taiwrash/organiza/total?style=flat-square&color=black)
+
 Organiza is a quiet, minimalist macOS application designed to keep your Desktop clear by automatically sorting files into dedicated folders based on their extensions.
 
 Designed with **Dieter Rams' Principles** in mind: It is as little design as possible, unobtrusive, and honest.
